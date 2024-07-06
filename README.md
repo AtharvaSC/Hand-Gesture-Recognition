@@ -10,6 +10,8 @@ To develop and train a CNN model capable of accurately classifying ASL letters b
 
 The dataset consists of grayscale images of hand gestures representing ASL letters. Each image is 28x28 pixels in size, and the dataset includes labeled examples for both training and testing.
 
+The dataset can be downloaded from Kaggle's Sign Language MNIST dataset(https://www.kaggle.com/datasets/datamunge/sign-language-mnist).
+
 ## CNN Architecture
 
 The CNN model has the following structure:
